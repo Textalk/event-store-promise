@@ -1,0 +1,26 @@
+{
+  "name": "event-store-promise",
+  "version": "0.0.1",
+  "description": "Wraps event-store-client with promises and streams",
+  "main": "esp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Textalk/event-store-promise.git"
+  },
+  "keywords": [
+    "eventstore",
+    "cqrs"
+  ],
+  "author": "Fredrik Liljegren <fredrik@liljegren.org>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Textalk/event-store-promise/issues"
+  },
+  "homepage": "https://github.com/Textalk/event-store-promise#readme",
+  "dependencies": {
+    "event-store-client": "0.0.5"
+  }
+}
